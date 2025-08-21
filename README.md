@@ -10,6 +10,7 @@ project structure
     │   │   ├── ProductDto.java
     │   │   ├── OrderItemDto.java
     │   │   ├── OrderSummaryDto.java
+    │   │   ├── OrderStatus.java
     │   │   ├── Address.java
     │   │   └── Money.java
     │   ├── error/
